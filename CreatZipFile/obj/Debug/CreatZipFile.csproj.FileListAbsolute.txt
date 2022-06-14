@@ -1,0 +1,9 @@
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\bin\Debug\CreatZipFile.exe.config
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\bin\Debug\CreatZipFile.exe
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\bin\Debug\CreatZipFile.pdb
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\obj\Debug\CreatZipFile.csprojAssemblyReference.cache
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\obj\Debug\CreatZipFile.csproj.CoreCompileInputs.cache
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\obj\Debug\CreatZipFile.csproj.CopyComplete
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\obj\Debug\CreatZipFile.exe
+D:\TOOL_SUPPORT_DATATOOL\CreatZipFile\CreatZipFile\obj\Debug\CreatZipFile.pdb
